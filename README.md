@@ -3,6 +3,7 @@ This Java project uses multithreading to connect one or more instances of a clie
 
 ## Concepts used
 Transmission Control Protocol (TCP): allowed for a reliable and constant connection between server and each client until client terminates it's connection (via manual user input)
+
 Multithreading: allowed for multiple synchronous client connections while avoiding identity mismanagement/loss of requests from client(s)
 
 ## Additional Files
